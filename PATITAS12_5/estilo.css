@@ -1,0 +1,65 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+header{
+    background: #1EE3B6;
+    color: #1EE3B6;
+    
+}
+nav{
+    background: #1EE3B6;
+}
+ .esp{color: #1EE3B6;
+    font-size: 10px}
+
+.boton{
+  text-align:center;
+  text-decoration: none;
+ font-family: 'Helvetica Neue', Helvetica, sans-serif;
+ display:inline-block;
+ color: white;
+ background: #7F8C8D;
+ padding: 15px 100px;
+ white-space: nowrap;
+ border-radius: 20px;
+ margin: 10px 5px;
+
+
+}
+      
+.azul{
+  background: #1EE3B6;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: MS COMIC sans-serif;
+
+}
+
+.azul:hover{
+  background: while;
+}
+.ft{
+  height: 200px;
+  width: 200px;
+}
+
+.center {
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+.center menu{
+  width: 300px;
+  margin: auto;
+}  
+
+#texto{
+  font-size:40px ;
+} 
+
+footer{
+  background: red;
+}
